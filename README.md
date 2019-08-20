@@ -7,3 +7,4 @@
 * 1.3 Java发展史
 * 1.4 Java虚拟机发展史
     * 1.4.1 Sun Classic/Exact VM
+    * 1.4.2 Sun HotSpot VM
