@@ -9,6 +9,7 @@
     * 1.4.1 Sun Classic/Exact VM
     * 1.4.2 Sun HotSpot VM
     * 1.4.3 Sun Mobile-Embedded VM/Meta-Circular VM
+    * 1.4.4 BEA JRockit/IBM J9 VM
 
 # 第二部分 自动内存管理机制
 ## 第2章 Java内存区域与内存溢出异常
