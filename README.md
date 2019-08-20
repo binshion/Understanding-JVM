@@ -10,6 +10,9 @@
     * 1.4.2 Sun HotSpot VM
     * 1.4.3 Sun Mobile-Embedded VM/Meta-Circular VM
     * 1.4.4 BEA JRockit/IBM J9 VM
+    * 1.4.5 Azul VM/BEA Liquid VM
+    * 1.4.6 Apache Harmony/Google Android Dalvik VM
+    * 1.4.7 Microsoft JVM及其他
 
 # 第二部分 自动内存管理机制
 ## 第2章 Java内存区域与内存溢出异常
