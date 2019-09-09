@@ -71,5 +71,6 @@
     * 3.5.3 Parallel Scavenge收集器
     * 3.5.4 Serial Old收集器
     * 3.5.5 Parallel Old收集器
+    * 3.5.6 CMS收集器
 * 3.6 
 * 3.7
