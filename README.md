@@ -68,5 +68,6 @@
 * 3.5 垃圾收集器
     * 3.5.1 Serial收集器
     * 3.5.2 ParNew收集器
+    * 3.5.3 Parallel Scavenge收集器
 * 3.6 
 * 3.7
